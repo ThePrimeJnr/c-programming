@@ -5,8 +5,8 @@
  *
  * Return: Always 0 (Success)
  *
- * Author: Destiny Saturday
- * Date: 08-05-2023
+ * Destiny Saturday
+ * 08-05-2023
  */
 
 int main(void)

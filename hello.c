@@ -1,18 +1,16 @@
 
 #include <stdio.h>
 /**
- * main - Entry point
+ * main - Entry point, Prints "Hello, world!" followed by a new line
  *
  * Return: Always 0 (Success)
  *
  * Author: Destiny Saturday
  * Date: 08-05-2023
- *
- * Description: Prints "Hello, world!" followed by a new line
  */
 
 int main(void)
 {
-	printf("Hello, world!\n");
+	printf("Hello, World!\n");
 	return (0);
 }

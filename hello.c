@@ -1,11 +1,11 @@
-
 #include <stdio.h>
+
 /**
  * main - Entry point, Prints "Hello, world!" followed by a new line
  *
  * Return: Always 0 (Success)
  *
- * Destiny Saturday
+ * Destiny Saturday (DestinedCodes)
  * 08-05-2023
  */
 

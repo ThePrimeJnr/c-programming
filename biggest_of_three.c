@@ -5,8 +5,8 @@
  *
  * Return: Always 0 (Success)
  *
- * Destiny Saturday
- * 11-08-2023
+ * Destiny Saturday (DestinedCodes)
+ * 11-05-2023
 */
 
 int main(void)

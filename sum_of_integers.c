@@ -11,16 +11,18 @@
 
 int main(void)
 {
-	int num, count = 1, sum = 1;
+	int num, count = 0, sum =0;
 
 	printf("Enter a number: ");
 	scanf("%d", &num);
 
-	while (count < num)
+	while (count <= num)
 	{
-		count++;
 		sum = sum + count;
+		count++;
 	}
 
-	printf("The sumof integers from 1 - %d = %d", num, sum);
+	printf("The sum f integers from 1 - %d = %d\n", num, sum);
+	
+	return (0);
 }

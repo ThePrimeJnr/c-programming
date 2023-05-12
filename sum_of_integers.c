@@ -11,7 +11,7 @@
 
 int main(void)
 {
-	int num, count = 0, sum =0;
+	int num, count = 0, sum = 0;
 
 	printf("Enter a number: ");
 	scanf("%d", &num);
@@ -23,6 +23,6 @@ int main(void)
 	}
 
 	printf("The sum f integers from 1 - %d = %d\n", num, sum);
-	
+
 	return (0);
 }
